@@ -1,4 +1,7 @@
 # ESP32-audioI2S
+:warning: This branch will not be developed any further. It is frozen to use with Platformio and the Arduino Framework for ESP.
+The master branch will not work on ESP_IDF_VERSION_MAJOR < 5 since commit f9f0168 (Jan. 7. 2025) 
+-------------------------
 
 :warning: **This library only works on multi-core ESP32 chips like the ESP32-S3. It does not work on the ESP32-S2 or the ESP32-C3** :warning:
 
